@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="#" target="_blank" title="THY THIM">THY THIM</a> 👋
 
 [![thimthy's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/thim-thy-bb8082346)
-[![thimthy's Facebook Profile](images/facebook.png)](https://www.facebook.com/timboyloy4u)
+[![thimthy's Instagram Profile](images/instagram.png)](https://www.instagram.com/tim_4u4ever)
 
 </br>
 
