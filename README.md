@@ -1,7 +1,7 @@
-### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Trinh Minh Triet">Trinh Minh Triet</a> 👋
+### Hi there, I'm <a href="#" target="_blank" title="THY THIM">THY THIM</a> 👋
 
-[![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/thim-thy-bb8082346)
-[![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/timboyloy4u)
+[![thimthy's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/thim-thy-bb8082346)
+[![thimthy's Facebook Profile](images/facebook.png)](https://www.facebook.com/timboyloy4u)
 
 </br>
 
