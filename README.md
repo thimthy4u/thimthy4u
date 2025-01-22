@@ -41,6 +41,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/thimthy4u)
-- [Twitter](https://twitter.com/thimthy4u)
+- [Twitter](https://twitter.com/thimthyy)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
