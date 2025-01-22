@@ -1,4 +1,4 @@
-# Hi there, I'm Thimthy! 👋
+# Hi there, I'm Thim! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, data science, and open-source projects. Here's a bit about me:
 
@@ -8,21 +8,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 🤔 **Looking For Help With:** Enhancing my skills in AI and Machine Learning.
 - 💬 **Ask Me About:** JavaScript, Python, React, and Django.
-- 📫 **How to Reach Me:** thimthy4u@example.com
+- 📫 **How to Reach Me:** thimmmm.tm@gmail.com
 - ⚡ **Fun Fact:** I love exploring nature and capturing moments through photography.
 
 ## My Skills
 
 ### Languages
 - JavaScript
+- C++
+- PHP
+- SQL
 - Python
 - HTML & CSS
-- SQL
 
 ### Frameworks & Libraries
 - React
+- Laravel
+- SpringBoot
 - Node.js
-- Django
 - Express
 
 ### Tools & Technologies
