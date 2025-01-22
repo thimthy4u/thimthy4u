@@ -34,19 +34,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - AWS
 - PostgreSQL
 
-## Projects
-
-Here are a few projects I've worked on:
-
-### [Project Name 1](https://github.com/thimthy4u/project1)
-*Brief description of the project and its purpose.*
-
-### [Project Name 2](https://github.com/thimthy4u/project2)
-*Brief description of the project and its purpose.*
-
-### [Project Name 3](https://github.com/thimthy4u/project3)
-*Brief description of the project and its purpose.*
-
 ## GitHub Stats
 
 ![Thimthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thimthy4u&show_icons=true&theme=radical)
