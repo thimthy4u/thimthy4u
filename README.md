@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ### Languages
 - JavaScript
 - C++
+- Java
 - PHP
 - SQL
 - Python
