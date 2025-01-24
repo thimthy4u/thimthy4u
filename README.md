@@ -31,9 +31,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### Tools & Technologies
 - Git & GitHub
-- Docker
-- AWS
-- PostgreSQL
 
 ## GitHub Stats
 
