@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## GitHub Stats
 
-![Thimthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thimthy4u&show_icons=true&theme=radical)
+![Thimthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thimthy4u&show_icons=true&theme=gruvbox)
 
 ## Connect With Me
 
