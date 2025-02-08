@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   <img alt="github-snake" src="https://raw.githubusercontent.com/thimthy4u/thimthy4u/output/github-snake.svg" />
 </picture>
 
-
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/thimthy4u)
