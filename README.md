@@ -7,18 +7,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 **Currently Learning:** Advanced JavaScript, Machine Learning, and Cloud Computing.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 🤔 **Looking For Help With:** Enhancing my skills in AI and Machine Learning.
-- 💬 **Ask Me About:** JavaScript, Python, React, and Django.
+- 💬 **Ask Me About:** JavaScript, Python, React, and PHP.
 - 📫 **How to Reach Me:** thimmmm.tm@gmail.com
 - ⚡ **Fun Fact:** I love exploring nature and capturing moments through photography.
 
 ## My Skills
 
 ### Languages
+- PHP
+- SQL
 - JavaScript
 - C++
 - Java
-- PHP
-- SQL
 - Python
 - HTML & CSS
 
