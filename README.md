@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 🌱 **Currently Learning:** Advanced JavaScript, Machine Learning, and Cloud Computing.
+- 🌱 **Currently Learning:** Advanced C#, Backend Developer, and Software Developer.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
-- 🤔 **Looking For Help With:** Enhancing my skills in AI and Machine Learning.
-- 💬 **Ask Me About:** JavaScript, Python, React, and PHP.
+- 🤔 **Looking For Help With:** Enhancing my skills in Backend Developer.
+- 💬 **Ask Me About:** JavaScript, Python, C#, and PHP.
 - 📫 **How to Reach Me:** thimmmm.tm@gmail.com
 - ⚡ **Fun Fact:** I love exploring nature and capturing moments through photography.
 
@@ -18,11 +18,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - SQL
 - JavaScript
 - C++
+- C#
 - Java
 - Python
 - HTML & CSS
 
 ### Frameworks & Libraries
+- ASP.NET
 - React
 - Laravel
 - Node.js
