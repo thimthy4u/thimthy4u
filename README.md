@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 🤔 **Looking For Help With:** Enhancing my skills in Backend Developer.
 - 💬 **Ask Me About:** JavaScript, Python, C#, and PHP.
-- 📫 **How to Reach Me:** thimmmm.tm@gmail.com
+- 📫 **How to Reach Me:** thimmm.thy@gmail.com
 - ⚡ **Fun Fact:** I love exploring nature and capturing moments through photography.
 
 ## My Skills
