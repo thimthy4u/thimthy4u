@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### Frameworks & Libraries
 - ASP.NET
+- Spring Boot
 - React
 - Laravel
 - Node.js
